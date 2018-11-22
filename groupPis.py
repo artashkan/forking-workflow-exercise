@@ -1,7 +1,4 @@
-import matplotlib.pyplot as plt
 
 def tweet():
-	plt.figure()
-	plt.plot([1,2,3],[1,2,3])
-	plt.show()
+	print("ok you will get the same boring print if you dont let matplotlib to run now")
 	return ":)"
